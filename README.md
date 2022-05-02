@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [https://bajinger.github.io/QRCode-component/](https://bajinger.github.io/QRCode-component/)
+- Live Site URL: [QR Code Component]( https://bajinger.github.io/Tailwind-QRCode-component/)
 
 ## My process
 
